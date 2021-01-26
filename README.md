@@ -1,7 +1,7 @@
 # Matplotlib Challenge 
-### - Examining tumor growth, drug regimen study using Python, Pandas, Matplotlib 
+### Examining tumor growth, drug regimen study using Python, Pandas, Matplotlib 
 
-##### Python Matplotlib project to find potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
+``` Python Matplotlib project to find potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer. ```
 
 
 ![Laboratory](Images/Laboratory.jpg)
