@@ -1,4 +1,4 @@
-# Matplotlib Challenge 
+# Matplotlib Challenge - The Power of Plots
 ### Examining tumor growth, drug regimen study using Python, Pandas, Matplotlib 
 
 ``` Python Matplotlib assignment to find potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer. ```
